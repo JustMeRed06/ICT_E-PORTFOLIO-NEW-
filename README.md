@@ -1,7 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
 "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head> <title> ICT E-PORTFOLIO </title> </head>
 <body align="center" style="font-family:Comic Sans MS;" bgcolor="Turquoise">
 <h1> ICT E-PORTFOLIO </h1>
 <h3> GRADE 9 | 1ST QUARTER <br/>
