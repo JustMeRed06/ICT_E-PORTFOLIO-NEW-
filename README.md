@@ -1,4 +1,3 @@
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body align="center" style="font-family:Comic Sans MS;" bgcolor="Turquoise">
 <h1> ICT E-PORTFOLIO </h1>
