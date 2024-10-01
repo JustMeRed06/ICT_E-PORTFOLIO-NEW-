@@ -19,6 +19,9 @@ Jared Enzo B. Alcain | 9-Fidelity </h3>
   <source src="US-AT-CALLE-CO-STAND.mp4" type="video/mp4"/>
   <source src="US-AT-CALLE-CO-STAND.ogg" type="video/ogg"/>
 </video> <br/>
+  [![Watch the video]
+  (https://raw.githubusercontent.com/JustMeRed06/ICT-E-PORTFOLIO-1ST-QUARTER/main/assets/PRE-PERFORMANCEjpg)]
+  (https://raw.githubusercontent.com/JustMeRed06/ICT-E-PORTFOLIO-1ST-QUARTER/main/assets/US-AT-CALLE-CO-STAND.mp4)
 <img src="PRACTICE.jpg" alt="PRACTICE" style="width:250;height:250px;"/>
 <h3> PERFORMANCE </h3>
 <video width="400" controls="controls">
